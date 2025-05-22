@@ -1,4 +1,4 @@
-📄 README.md
+
 
 # 🎓 Öğrenci Başarı Analizi
 
